@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv or env folders
+venv/
+.env/
+
+# Image outputs
+producer/
+consumer/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
