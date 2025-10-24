@@ -15,3 +15,8 @@ Run:
    python producer.py
 
 The script will print progress and save thumbnails into the consumer/ folder.
+
+producer/README.md
+consumer/README.md
+This folder stores images processed by the producer.
+This folder stores thumbnails saved by the consumer.
